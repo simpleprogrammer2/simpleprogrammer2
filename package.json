@@ -1,0 +1,27 @@
+{
+  "name": "simpleprogrammer2",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleprogrammer2/simpleprogrammer2.git"
+  },
+  "keywords": [
+    "profile",
+    "portfolio",
+    "stats"
+  ],
+  "author": "Archana Sevak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simpleprogrammer2/simpleprogrammer2/issues"
+  },
+  "homepage": "https://github.com/simpleprogrammer2/simpleprogrammer2#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
