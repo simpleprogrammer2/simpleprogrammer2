@@ -3,9 +3,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Hello, I am Archana Sevak, Fullstack developer from Austin, TX. 
-Currently its Friday, April 23, 9:20 PM CDT here.
+Currently its Friday, April 23, 9:26 PM CDT here.
 
-Austin's weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>
+Austin's weather is: <b> 21°C, <i>mist</i></b></br>Today, the sun rises at <b>06:54 AM</b> and sets at <b>08:03 PM</b>
 
 <h3>Things I code with</h3>
 <p>
@@ -52,7 +52,7 @@ Austin's weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> an
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, April 23, 9:20 PM CDT<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, April 23, 9:26 PM CDT<br />
 
 <p align="center"><img src="https://github.com/simpleprogrammer2/simpleprogrammer2/workflows/README%20build/badge.svg" />
  <img alt="Stars" src="https://img.shields.io/github/stars/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/>
