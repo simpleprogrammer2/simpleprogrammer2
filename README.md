@@ -3,7 +3,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Hello, I am Archana Sevak, Fullstack developer from Austin, TX. 
-Currently its Friday, April 23, 7:40 PM CDT here.
+Currently its Friday, April 23, 9:20 PM CDT here.
+
+Austin's weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>
 
 <h3>Things I code with</h3>
 <p>
@@ -46,8 +48,11 @@ Currently its Friday, April 23, 7:40 PM CDT here.
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/alina967) 
 
 <img src="https://img.shields.io/twitter/follow/alina967?style=social" />
- <a href="https://medium.com/@alina9675" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a></p>1
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <br />
+<a href="https://medium.com/@alina9675" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a></p>
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, April 23, 9:20 PM CDT<br />
 
 <p align="center"><img src="https://github.com/simpleprogrammer2/simpleprogrammer2/workflows/README%20build/badge.svg" />
  <img alt="Stars" src="https://img.shields.io/github/stars/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/>
