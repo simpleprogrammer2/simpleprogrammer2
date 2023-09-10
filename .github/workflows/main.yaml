@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
+        uses: actions/checkout@v3
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.8.1
         with:
@@ -25,26 +25,15 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Run another script
-        run: ls
-      - name: tet
-        run: cd /home/runner/work/_actions/
-      - name: test
-        run: ls
-      - name: Find files matching "*.rs" or "*.md"
-        uses: jeertmans/filesfinder@latest
-        id: ff # Any id, to be used later to reference to files output
-        with:
-          # Only argument, a single string, to be passed as arguments to ff.
-          # See `ff --help` for more help.
-          # Default: "*"
-          args: "mustache.js"
       - name: Print files
         run: echo "${{ steps.ff.outputs.files }}"
       - name: working directory 
         run: echo "${{ github.workspace }}
-      - name: copy mustache file
-        run: cp node_modules/mustache/mustache.js node_modules/.bin/mustache
+      - name: Commit and Push new README.md to the repository
+        uses: simpleprogrammer2/simpleprogrammer2@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
    
 
           
