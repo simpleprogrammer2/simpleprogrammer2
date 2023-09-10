@@ -21,6 +21,7 @@ jobs:
           node-version: 14
       - name: Install dependencies
         run: npm install
+      - name: install
         run: npm install mustache
       - name: Generate README file
         run: node index.js
