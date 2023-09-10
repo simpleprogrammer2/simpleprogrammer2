@@ -34,4 +34,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with: 
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
