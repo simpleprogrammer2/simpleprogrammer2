@@ -31,8 +31,9 @@ jobs:
         run: cd /home/runner/work/_actions/
       - name: test
         run: ls 
-      - uses: Smart-Transportation/push@v1.3
-        with: 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push new README.md to the repository
+        uses: simpleprogrammer2/simpleprogrammer2@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           
