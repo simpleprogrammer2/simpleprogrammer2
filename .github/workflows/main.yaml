@@ -31,4 +31,4 @@ jobs:
         run: cd /home/runner/work/_actions/
       - name: test
         run: ls 
-     
+      - uses: stefanzweifel/git-auto-commit-action@v4
