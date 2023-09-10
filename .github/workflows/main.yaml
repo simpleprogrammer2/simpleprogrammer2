@@ -25,6 +25,8 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Run another script
+        run: pwd
       - name: Github commit and push
         uses: simpleprogrammer2/simpleprogrammer2@main
         with:
