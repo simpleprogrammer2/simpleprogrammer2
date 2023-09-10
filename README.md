@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Hello, I am Archana Sevak, Fullstack developer from Austin, TX. 
+Hello, I am Archana Sevak, a Fullstack developer from Austin, TX. 
 Currently its Sunday, September 10, 11:40 AM CDT here.
 
 Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at <b>07:12 AM</b> and sets at <b>07:43 PM</b>
