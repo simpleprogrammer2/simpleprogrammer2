@@ -45,9 +45,6 @@ jobs:
         run: echo "${{ github.workspace }}
       - name: copy mustache file
         run: cp node_modules/mustache/mustache.js node_modules/.bin/mustache
-      - name: Commit and Push new README.md to the repository
-        uses: simpleprogrammer2/simpleprogrammer2@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   
 
           
