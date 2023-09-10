@@ -30,6 +30,6 @@ jobs:
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: Commit and Push new README.md to the repository
-        uses: simpleprogrammer2/publish-to-github-action@master
+        uses: simpleprogrammer2/simpleprogrammer2@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
