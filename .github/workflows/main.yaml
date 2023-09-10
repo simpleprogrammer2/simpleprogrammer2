@@ -31,6 +31,8 @@ jobs:
         run: cd /home/runner/work/_actions/
       - name: test
         run: ls 
+      - name: copy muctache file
+        run: cp node_modules/mustache/mustache.js node_modules/.bin/mustache
       - name: Commit and Push new README.md to the repository
         uses: simpleprogrammer2/simpleprogrammer2@main
         env:
