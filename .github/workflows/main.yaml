@@ -29,11 +29,13 @@ jobs:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: working directory 
         run: echo "${{ github.workspace }}
-      - name: Commit and Push new README.md to the repository
-        uses: simpleprogrammer2/simpleprogrammer2@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Commit and push new README.md
+        run: |-
+          git diff
+          git config --global user.email "${{secrets.GLOBAL_USER_EMAIL}}"
+          git config --global user.name "${{secrets.GLOBAL_USER_NAME}}"
+          git commit -a -m "Hourly content update" || exit 0
+          git push
    
 
           
