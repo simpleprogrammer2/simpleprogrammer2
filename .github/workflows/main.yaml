@@ -15,29 +15,27 @@ jobs:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v1
       - name: Setup NodeJs 14.x
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          node-version: '14.x'
+          node-version: 18
+      - run: npm ci
+      - run: npm test
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 14
-          cache: 'npm'
-          cache-dependency-path: simpleprogrammer2/package-lock.json
-      - run: npm ci
-      - run: npm test
       - name: Install dependencies
         run: npm install
       - name: Generate README file
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Get directory
+        run: ls
       - name: Commit and Push new README.md to the repository
         uses: simpleprogrammer2/simpleprogrammer2@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            
