@@ -31,8 +31,4 @@ jobs:
         run: cd /home/runner/work/_actions/
       - name: test
         run: ls 
-      - name: Github commit and push
-        uses: simpleprogrammer2/simpleprogrammer2@main
-        with:
-          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+     
