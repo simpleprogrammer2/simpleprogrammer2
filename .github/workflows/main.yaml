@@ -21,12 +21,11 @@ jobs:
           node-version: 14
       - name: Install dependencies
         run: npm install
+        run: npm install mustache
       - name: Generate README file
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Print files
-        run: echo "${{ steps.ff.outputs.files }}"
       - name: working directory 
         run: echo "${{ github.workspace }}
       - name: Commit and Push new README.md to the repository
