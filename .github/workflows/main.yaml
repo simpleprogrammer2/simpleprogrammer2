@@ -19,4 +19,9 @@ jobs:
         with:
           # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
           node-version: 14
-        
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+        env:
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
