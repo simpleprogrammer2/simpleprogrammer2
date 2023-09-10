@@ -14,10 +14,10 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v1
-      - name: Setup NodeJs 18.x
+      - name: Setup NodeJs 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: '18.x'
+          node-version: '14.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
@@ -30,6 +30,6 @@ jobs:
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: Commit and Push new README.md to the repository
-        uses: simpleprogrammer2/publish-to-github-action@main
+        uses: simpleprogrammer2/simpleprogrammer2@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
