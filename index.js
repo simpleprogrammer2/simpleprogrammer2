@@ -35,6 +35,11 @@ let DATA = {
 
 async function setWeatherInformation() {
   try {
+   if (!process.env.OPEN_WEATHER_MAP_KEY) {
+      console.error('❌ OPEN_WEATHER_MAP_KEY is not defined!');
+    } else {
+      console.log('✅ API key is set, length:', process.env.OPEN_WEATHER_MAP_KEY.length);
+    }
     const res = await fetch(
       `https://api.openweathermap.org/data/2.5/weather?id=409997&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     );
