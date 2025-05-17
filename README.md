@@ -76,5 +76,3 @@ Austin's weather is: <b> 31°C, 88°F <i>broken clouds</i></b></br>Today, the su
 <img alt="Stars" src="https://img.shields.io/github/stars/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/></p>
 
-<p><iframe width="500px" height="700px" frameborder="0" src="https://widget.webwhiz.ai/?kbId=6829028b0ce5fcc58e160ea8&embed=true&hide-chat-actions=true"></iframe></p>
-<script id="__webwhizSdk__" data-chatbot-id="6829028b0ce5fcc58e160ea8" src="https://widget.webwhiz.ai/webwhiz-sdk.js"></script>
