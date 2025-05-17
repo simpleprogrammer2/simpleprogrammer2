@@ -29,6 +29,8 @@ jobs:
       - name: Print all environment variables
         run: printenv
       - name: Generate README file
+        env: 
+          OPEN_WEATHER_MAP_KEY: ${{ secrets.TEST }}
         run: |-
           node index.js
 
