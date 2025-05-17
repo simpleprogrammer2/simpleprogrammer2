@@ -30,9 +30,9 @@ Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
 <h3>🧠 Design & Architecture</h3>
 <p>
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-00BFFF?style=flat-square&logo=swagger&logoColor=white" />
-<img alt="Microservices" src="https://img.shields.io/badge/-Microservices-Architecture-blue?style=flat-square" />
-<img alt="Event Driven" src="https://img.shields.io/badge/-Event--Driven-Architecture-FFA500?style=flat-square" />
-<img alt="OOP" src="https://img.shields.io/badge/-OOP-Principles-green?style=flat-square" />
+<img alt="Microservices" src="https://img.shields.io/badge/Microservices-Architecture-blue?style=flat-square" />
+<img alt="Event Driven" src="https://img.shields.io/badge/Event--Driven-Architecture-FFA500?style=flat-square" />
+<img alt="OOP" src="https://img.shields.io/badge/OOP-Principles-green?style=flat-square" />
 </p>
 <h3>🐍 Languages</h3>
 <p>
