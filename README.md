@@ -52,6 +52,9 @@ Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
 [![](https://komarev.com/ghpvc/?username=simpleprogrammer2&color=blue&label=Profile%20Views)](https://github.com/markoDenic/simpleprogrammer2)
 [![](https://img.shields.io/github/followers/simpleprogrammer2?label=GitHub%20Followers)](https://github.com/simpleprogrammer2)
 
+![Snake animation (dark)](https://github.com/simpleprogrammer2/simpleprogrammer2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+
 ## ⚡ Github Stats
 
 ![Archana's Github Stats](https://github-readme-stats.vercel.app/api?username=simpleprogrammer2&theme=dark)
