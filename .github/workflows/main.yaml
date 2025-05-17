@@ -12,8 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout current repository to Master branch
-      - uses: actions/checkout@v3
-      - run: echo "Hello, ${{ secrets.OPEN_WEATHER_MAP_KEY }}"
+        uses: actions/checkout@v3
+      - name: Test
+        run: echo "Hello, ${{ secrets.OPEN_WEATHER_MAP_KEY }}"
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.8.1
         with:
