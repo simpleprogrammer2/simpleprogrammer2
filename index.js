@@ -41,7 +41,7 @@ async function setWeatherInformation() {
       console.log('✅ API key is set, length:', process.env.OPEN_WEATHER_MAP_KEY.length);
     }
     const res = await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?id=409997&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?id=4099974&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     );
     
     const r = await res.json();

@@ -1,12 +1,13 @@
+![Repository Banner](flowers.jpg)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Hello, I am Archana Sevak, starup enthusiat, tech savy, software engineer based in Austin, TX. 
-Currently its Sunday, September 10, 11:40 AM CDT here.
+Hello, I am Archana Sevak, Backend engineer from Austin, TX. 
+Currently its Saturday, May 17, 2:50 PM CDT here.
 
-Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at <b>07:12 AM</b> and sets at <b>07:43 PM</b>
+Austin's weather is: <b> 31°C, 31 - 32) * 5 / 9 °F <i>scattered clouds</i></b></br>Today, the sun rises at <b>06:02 AM</b> and sets at <b>08:06 PM</b>
 
-<h3>Things I code with</h3>
+<h3>Experties in</h3>
 
 <h3>☁️ Cloud & DevOps</h3>
 <p>
@@ -48,12 +49,10 @@ Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
 </a>
 </p>
 
-
 [![](https://komarev.com/ghpvc/?username=simpleprogrammer2&color=blue&label=Profile%20Views)](https://github.com/markoDenic/simpleprogrammer2)
 [![](https://img.shields.io/github/followers/simpleprogrammer2?label=GitHub%20Followers)](https://github.com/simpleprogrammer2)
 
 ![Snake animation (dark)](https://github.com/simpleprogrammer2/simpleprogrammer2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
 
 ## ⚡ Github Stats
 
@@ -71,8 +70,10 @@ Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, September 10, 11:40 AM CDT<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, May 17, 2:50 PM CDT<br />
 
 <p align="center"><img src="https://github.com/simpleprogrammer2/simpleprogrammer2/workflows/README%20build/badge.svg" />
- <img alt="Stars" src="https://img.shields.io/github/stars/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/>
-  <img alt="Forks" src="https://img.shields.io/github/forks/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/></p>
+<img alt="Stars" src="https://img.shields.io/github/stars/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/></p>
+
+
