@@ -55,6 +55,7 @@ async function setWeatherInformation() {
     }
 
     DATA.city_temperature = Math.round(r.main.temp);
+    DATA.city_temperature_f = (r.main.temp - 32) * 5 / 9
     DATA.city_weather = r.weather[0].description;
     DATA.city_weather_icon = r.weather[0].icon;
     DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
