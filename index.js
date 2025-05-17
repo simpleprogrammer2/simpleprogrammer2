@@ -34,7 +34,7 @@ let DATA = {
 
 async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=austin&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=austin&appid=${process.env.OPEN_WEATHER_MAP_KEY}`
     )
       .then(r => r.json())
       .then(r => {
