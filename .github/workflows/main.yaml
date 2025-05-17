@@ -24,12 +24,12 @@ jobs:
         run: npm install mustache
         
       - name: Print all environment variables
-        with: 
+        env:   
           OPEN_WEATHER_MAP_KEY : ${{ secrets.OPEN_WEATHER_MAP_KEY }}
-
+        run: 
+          echo $OPEN_WEATHER_MAP_KEY
       - name: Generate README file
         run: |-
-          print $OPEN_WEATHER_MAP_KEY
           node index.js
 
       - name: Commit and push new README.md
