@@ -28,7 +28,7 @@ jobs:
           OPEN_WEATHER_MAP_KEY : ${{ secrets.OPEN_WEATHER_MAP_KEY }}
 
       - name: Generate README file
-        run: 
+        run: |-
           print $OPEN_WEATHER_MAP_KEY
           node index.js
 
