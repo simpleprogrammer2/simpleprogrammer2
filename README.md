@@ -58,10 +58,7 @@ Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
 <p><a href="https://github.com/simpleprogrammer2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/archanasevak/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/alina967) 
 
-<img src="https://img.shields.io/twitter/follow/alina967?style=social" />
-<a href="https://medium.com/@alina9675" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a></p>
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
