@@ -42,6 +42,12 @@ Austin's weather is: <b> 33°C, <i>clear sky</i></b></br>Today, the sun rises at
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+<p>
+  <a href="https://info.flagcounter.com/YourCode">
+  <img src="https://s11.flagcounter.com/count2/YourCode/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_10/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Flag Counter" />
+</a>
+</p>
+
 
 [![](https://komarev.com/ghpvc/?username=simpleprogrammer2&color=blue&label=Profile%20Views)](https://github.com/markoDenic/simpleprogrammer2)
 [![](https://img.shields.io/github/followers/simpleprogrammer2?label=GitHub%20Followers)](https://github.com/simpleprogrammer2)
