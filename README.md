@@ -3,9 +3,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Hello, I am Archana Sevak, Backend engineer from Austin, TX. 
-Currently its Tuesday, April 28, 9:12 PM CDT here.
+Currently its Wednesday, April 29, 8:28 AM CDT here.
 
-Austin's weather is: <b> 21°C, 70°F <i>overcast clouds</i></b></br>Today, the sun rises at <b>06:20 AM</b> and sets at <b>07:50 PM</b>
+Austin's weather is: <b> 16°C, 60°F <i>overcast clouds</i></b></br>Today, the sun rises at <b>06:19 AM</b> and sets at <b>07:51 PM</b>
 
 <h3>Experties in</h3>
 
@@ -70,7 +70,7 @@ Austin's weather is: <b> 21°C, 70°F <i>overcast clouds</i></b></br>Today, the 
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, April 28, 9:12 PM CDT<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, April 29, 8:28 AM CDT<br />
 
 <p align="center"><img src="https://github.com/simpleprogrammer2/simpleprogrammer2/workflows/README%20build/badge.svg" />
 <img alt="Stars" src="https://img.shields.io/github/stars/simpleprogrammer2/simpleprogrammer2?style=flat-square&labelColor=343b41"/>
