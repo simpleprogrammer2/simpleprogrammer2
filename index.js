@@ -13,7 +13,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'Archana Sevak',
-  date: new Date().toLocaleDateString('en-US', {
+  date: new Date().toLocaleString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -22,7 +22,7 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'America/Chicago',
   }),
-  refresh_date: new Date().toLocaleDateString('en-US', {
+  refresh_date: new Date().toLocaleString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
